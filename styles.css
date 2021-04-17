@@ -1,0 +1,123 @@
+body{
+    background-color: #ed4042;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cabeza{
+   background-color: #f6c09c;
+   border-style: solid;
+   border-color: #f6c09c;
+   height: 16em;
+   width: 8em;
+   border-radius: 5em;
+   
+}
+
+.ojos{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.ojo_izquierdo{
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-bottom-left-radius: 5em;
+    border-bottom-right-radius: 5em;
+    width: 2em;
+    height: 1.5em;
+    margin-top: 3em;
+    margin-right: -2em;
+    
+
+
+}
+
+.ojo_derecho{
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    border-bottom-left-radius: 5em;
+    border-bottom-right-radius: 5em;
+    width: 2em;
+    height: 1.5em;
+    margin-top: 3em;
+    margin-left: -2em;
+    
+}
+
+.nariz{
+    background-color: #cf8858;
+    border-style: solid;
+    border-color: #cf8858;
+    border-radius: 10em;
+    width: 2em;
+    height: 3em;
+    margin-left: 2.8em;
+}
+
+.barba{
+    background-color: #000000;
+    background-color: #000000;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 3em;
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content:center;
+    padding-top: 1.5em;
+}
+
+.boca{
+    background-color: #8a0909;
+    background-color: #8a0909;
+    border-style: solid;
+    border-color: #8a0909;
+    border-bottom-left-radius: 5em;
+    border-bottom-right-radius: 5em;
+    width: 3em;
+    height: 2em;
+    
+}
+
+.dientes{
+    background-color: #ffffff;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #ffffff;
+    width: 2.5em;
+    height: 0.5em;
+    margin-left: -0.2em;
+    margin-top: -0.2em;
+    border-bottom-left-radius: 0.2em;
+    border-bottom-right-radius: 0.2em;
+}
+
+.lengua{
+    background-color: #ff674c;
+    border-style: solid;
+    border-color: #ff674c;
+    margin-left: -0.011em;
+    margin-top: 0.55em;
+    width: 1.5em;
+    height: 0.6em;
+    border-bottom-left-radius: 5em;
+    border-bottom-right-radius: 2em;
+    border-top-right-radius: 2em;
+}
+
+.iris{
+    background-color: #000000;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 10em;
+    width: 0.5em;
+    height: 0.5em;
+    margin-left: 0.8em;
+    
+}
